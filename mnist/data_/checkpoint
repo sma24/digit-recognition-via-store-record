@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/sichen/PycharmProjects/mnist_testnumber/mnist/data_/convolutional.ckpt"
+all_model_checkpoint_paths: "/home/sichen/PycharmProjects/mnist_testnumber/mnist/data_/convolutional.ckpt"
